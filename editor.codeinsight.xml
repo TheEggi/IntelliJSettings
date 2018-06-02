@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="400" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <EXCLUDED_PACKAGE NAME="at.mic.edis.cust.pl" />
+    <EXCLUDED_PACKAGE NAME="org.apache.camel.component.mail.SearchTermBuilder.Op" />
+    <EXCLUDED_PACKAGE NAME="sk.colnasprava" />
+  </component>
+</application>
