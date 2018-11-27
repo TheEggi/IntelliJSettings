@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="l" />
   </action>
+  <action id="ExternalSystem.RefreshAllProjects">
+    <keyboard-shortcut first-keystroke="ctrl dead_acute" />
+  </action>
   <action id="ExtractInterface">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
