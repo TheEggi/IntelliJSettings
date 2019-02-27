@@ -3,12 +3,17 @@
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="ParameterInfo" />
@@ -17,6 +22,8 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="SendEOF" />
+  <action id="TagDocumentationNavigation" />
   <action id="TodoViewGroupByShowPackages" />
+  <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
 </keymap>
