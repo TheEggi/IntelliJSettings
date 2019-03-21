@@ -6,7 +6,12 @@
           <option name="url" value="http://mic-git.mic.co.at" />
           <option name="userName" value="teckerst" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mic-git.mic.co.at/MIC-DEV/modelizer/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\git" />
   </component>
 </application>
