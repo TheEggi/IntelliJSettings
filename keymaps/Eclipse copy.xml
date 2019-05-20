@@ -28,7 +28,11 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="Print" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
