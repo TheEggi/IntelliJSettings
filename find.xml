@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.template" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,9 +17,9 @@
     <mask>*.json</mask>
     <mask>*test*.java</mask>
     <mask>MessageProcessor*.java</mask>
-    <mask>*.template</mask>
     <mask>*.gradle</mask>
     <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>*.template</mask>
   </component>
 </application>
