@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="PARAMETER_INFO_DELAY" value="400" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
@@ -14,5 +15,8 @@
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code Medium" />
     <option name="USE_LIGATURES" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
