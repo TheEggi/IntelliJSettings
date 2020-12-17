@@ -14,6 +14,10 @@
           <option name="url" value="http://mic-git.mic.co.at/pdressle/CodingDojoStarter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mic-git.mic.co.at/jschierz/CodingDojoStarter" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\git" />
