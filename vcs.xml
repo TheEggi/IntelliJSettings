@@ -26,9 +26,13 @@
           <option name="url" value="http://mic-repos.mic.co.at" />
           <option name="userName" value="teckerst" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mic-git.mic.co.at/europe/eucdm-spike" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\svn\intellij_workspaces" />
+    <option name="cloneParentDir" value="D:\git" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
