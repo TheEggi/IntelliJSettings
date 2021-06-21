@@ -6,6 +6,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="javacannotationhandler" type="PLAIN_TEXT" />
+      <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="inv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
