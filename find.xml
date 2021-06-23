@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +16,9 @@
     <mask>MessageProcessor*.java</mask>
     <mask>*.template</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.xsd</mask>
     <mask>*.*</mask>
+    <mask>*.java</mask>
   </component>
 </application>
