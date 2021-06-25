@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CWMHostShowPopupAction" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
@@ -17,7 +18,14 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
   <action id="EvaluateExpression" />
+  <action id="ExternalSystem.ProjectRefreshAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark7" />
